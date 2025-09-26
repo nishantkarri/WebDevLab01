@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/spiderman.jpg"
+profile_picture = "nishant_reddy_karri_WebDevLab01/images/spiderman.jpg"
 about_me = "I'm Spider-Man. I swing through the city, fight villains, and protect the people of New York. "
 
 
@@ -40,21 +40,21 @@ experience_data = {
     ["- Captured action shots of Spider-Man in the city",
      "- Helped boost newspaper sales with exclusive photos",
      "- Balanced work while hiding my secret identity"],
-    "images/photographer.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/photographer.jpg"
 ),
 
 "Neighborhood Protector": (
     ["- Patrolled the streets of New York to keep citizens safe",
      "- Foiled multiple crimes and supervillain plots",
      "- Built trust as the Friendly Neighborhood Spider-Man"],
-    "images/protector.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/protector.jpg"
 ),
 
 "Avengers Team Member": (
     ["- Assisted Earth’s Mightiest Heroes in high-stakes battles",
      "- Coordinated with allies like Iron Man and Captain America",
      "- Helped defend New York (and sometimes the galaxy)"],
-    "images/avengers.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/avengers.jpg"
 ),
 
 }
