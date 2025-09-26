@@ -8,9 +8,9 @@ st.subheader("CS 1301 — Web Development Lab 01")
 
 st.write("---")
 
-# Optional banner (uses your Images folder; safe if missing)
+# Optional banner (uses your images folder; safe if missing)
 try:
-    st.image("Images/homepage.jpg", use_container_width=True)
+    st.image("images/homepage.jpg", use_container_width=True)
 except Exception:
     pass
 
