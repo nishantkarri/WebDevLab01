@@ -30,9 +30,9 @@ st.write("---")
 col1, col2 = st.columns(2)
 with col1:
     if st.button("Go to Portfolio 🧑‍💻"):
-        st.switch_page("pages/Portfolio.py")
+        st.switch_page("Pages/Portfolio.py")
 with col2:
     if st.button("Take the NBA Quiz 🏀"):
-        st.switch_page("pages/NBA_Quiz.py")
+        st.switch_page("Pages/NBA_Quiz.py")
 
 st.caption("Tip: You can also switch pages from the left sidebar at any time.")
