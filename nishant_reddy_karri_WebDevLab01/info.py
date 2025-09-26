@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/spiderman.jpg"
+profile_picture = "images/spiderman.jpg"
 about_me = "I'm Spider-Man. I swing through the city, fight villains, and protect the people of New York. "
 
 
@@ -40,21 +40,21 @@ experience_data = {
     ["- Captured action shots of Spider-Man in the city",
      "- Helped boost newspaper sales with exclusive photos",
      "- Balanced work while hiding my secret identity"],
-    "Images/photographer.jpg"
+    "images/photographer.jpg"
 ),
 
 "Neighborhood Protector": (
     ["- Patrolled the streets of New York to keep citizens safe",
      "- Foiled multiple crimes and supervillain plots",
      "- Built trust as the Friendly Neighborhood Spider-Man"],
-    "Images/protector.jpg"
+    "images/protector.jpg"
 ),
 
 "Avengers Team Member": (
     ["- Assisted Earth’s Mightiest Heroes in high-stakes battles",
      "- Coordinated with allies like Iron Man and Captain America",
      "- Helped defend New York (and sometimes the galaxy)"],
-    "Images/avengers.jpg"
+    "images/avengers.jpg"
 ),
 
 }
@@ -98,7 +98,7 @@ spoken_data = {
 }
 
 leadership_data = {
-    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"], "Images/avengers.jpg"),
+    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"], "images/avengers.jpg"),
 }
 
 activity_data = {
