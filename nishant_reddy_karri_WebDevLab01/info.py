@@ -103,5 +103,5 @@ leadership_data = {
 
 activity_data = {
     "Friendly Neighborhood Club": ["- Helped local citizens with everyday problems", "- Balanced hero work with high school life"
-    ], 
+    ]
 }
