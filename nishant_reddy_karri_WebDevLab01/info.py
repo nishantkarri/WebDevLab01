@@ -40,21 +40,21 @@ experience_data = {
     ["- Captured action shots of Spider-Man in the city",
      "- Helped boost newspaper sales with exclusive photos",
      "- Balanced work while hiding my secret identity"],
-    "images/photographer.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/photographer.jpg"
 ),
 
 "Neighborhood Protector": (
     ["- Patrolled the streets of New York to keep citizens safe",
      "- Foiled multiple crimes and supervillain plots",
      "- Built trust as the Friendly Neighborhood Spider-Man"],
-    "images/protector.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/protector.jpg"
 ),
 
 "Avengers Team Member": (
     ["- Assisted Earth’s Mightiest Heroes in high-stakes battles",
      "- Coordinated with allies like Iron Man and Captain America",
      "- Helped defend New York (and sometimes the galaxy)"],
-    "images/avengers.jpg"
+    "nishant_reddy_karri_WebDevLab01/images/avengers.jpg"
 ),
 
 }
@@ -98,7 +98,7 @@ spoken_data = {
 }
 
 leadership_data = {
-    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"], "images/avengers.jpg"),
+    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"], "nishant_reddy_karri_WebDevLab01/images/avengers.jpg"),
 }
 
 activity_data = {
