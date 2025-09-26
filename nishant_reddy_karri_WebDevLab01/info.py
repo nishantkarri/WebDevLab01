@@ -98,7 +98,7 @@ spoken_data = {
 }
 
 leadership_data = {
-    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"], "images/nishant_reddy_karri_WebDevLab01/images/avengers.jpg"),
+    "Avengers Initiative": (["- Collaborated with Iron Man, Captain America, and others to save the world"]
 }
 
 activity_data = {
