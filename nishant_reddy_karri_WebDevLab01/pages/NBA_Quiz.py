@@ -7,12 +7,12 @@ st.caption("Answer the questions below to discover your hoop persona!")
 
 # Images shown with results
 RESULT_IMAGES = {
-    "Scorer": "Images/nba_scorer.jpg",
-    "Playmaker": "Images/nba_playmaker.jpg",
-    "Defender": "Images/nba_defender.jpg",
-    "Sharpshooter": "Images/nba_sharpshooter.jpg",
-    "All-Around": "Images/nba_allaround.jpg",         # LeBron
-    "Interior Force": "Images/nba_interiorforce.jpg", # Shaq
+    "Scorer": "images/nba_scorer.jpg",
+    "Playmaker": "images/nba_playmaker.jpg",
+    "Defender": "images/nba_defender.jpg",
+    "Sharpshooter": "images/nba_sharpshooter.jpg",
+    "All-Around": "images/nba_allaround.jpg",         # LeBron
+    "Interior Force": "images/nba_interiorforce.jpg", # Shaq
 }
 
 # Icons for each archetype
