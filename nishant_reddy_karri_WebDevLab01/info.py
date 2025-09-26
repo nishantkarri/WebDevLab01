@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/spiderman.jpg"
+profile_picture = "nishant_reddy_karri_WebDevLab01/images/spiderman.jpg"
 about_me = "I'm Spider-Man. I swing through the city, fight villains, and protect the people of New York. "
 
 
